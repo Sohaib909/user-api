@@ -14,8 +14,6 @@ dist/
 .vercel
 
 # Environment variables
-.env
-.env.local
 
 # IDE
 .vscode/
@@ -40,3 +38,4 @@ coverage/
 
 # Misc
 .cache/
+config.bat
